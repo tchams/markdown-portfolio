@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![twenty-percent-cooler-octocat](https://octodex.github.com/images/twenty-percent-cooler-octocat.png)
