@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+# Tools to master
+* Vagrant 
+* Git
+* Docker
+* Terraform
+* Jenkins
+* Kubernetes
